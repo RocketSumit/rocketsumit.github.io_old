@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name: "Sumit Patidar"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "assets/images/prof_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Graduate Student, Autonomous Systems, TU Berlin"
   location: "Berlin, Germany"
   email: "sumitpatidar96@gmail.com"
@@ -134,7 +134,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/RocketSumit"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/rocketsumit"
 
 # Reading Files
 include:
