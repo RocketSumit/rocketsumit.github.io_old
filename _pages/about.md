@@ -7,7 +7,7 @@ toc: false
 toc_sticky: false
 header:
     overlay_image: /assets/images/cover.jpg
-    caption: "Stockholm @ Sumit Patidar"
+    caption: "KTH, Sweden &copy; Sumit Patidar"
 classes: 
     - wide
 date: May 25, 2021
