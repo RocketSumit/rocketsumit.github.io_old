@@ -5,7 +5,7 @@ permalink: /
 excerpt: "Welcome to my website."
 header:
   overlay_color: "#808080"
-  overlay_filter: "0.0"
+  overlay_filter: "0.15"
   overlay_image: /assets/images/gamla_stan.jpg
   caption: "Stockholm &copy; Sumit Patidar"
   actions:
