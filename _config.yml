@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name: "Sumit Patidar"
-  avatar: "assets/images/prof_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "assets/images/prof_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Graduate student, teck geek, travel, cooking, home workouts, chess"
   location: "Berlin, Germany"
   email: "sumitpatidar96@gmail.com"
